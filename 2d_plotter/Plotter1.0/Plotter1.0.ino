@@ -1,5 +1,6 @@
 /* 
- https://www.youtube.com/watch?v=opZ9RgmOIpc
+ *  Author: Suneth De Soyza
+ *  Please go throgh the readme, as I have refactored the standard code to fit with my Plotter Motors and Sensors
   */
 
 #include <Servo.h>
